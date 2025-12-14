@@ -1,8 +1,9 @@
+// Ethan Claire, Group 41
+// CPE301 Final Project
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include <LiquidCrystal.h>
 #include <RTClib.h>
-#include <util/delay.h>
 #include <DHT.h>
 #include <Stepper.h>
 
